@@ -1,4 +1,8 @@
 name : sajeeb
 id : cse 062 07 367
+<<<<<<< HEAD
 forkan
 id : cse 062 07 357
+panda
+id :cse 062 07 341
+>>>>>>> main
